@@ -1,7 +1,7 @@
 # AI_ProblemSolving_-RA2411026050276-RA2411026050247
 ## Name : Sundhares S
 ## Reg NO : RA2411026050276
-## Name : Nithish Elangovan EKT
+## Name : Nithish Elangovan 
 ## Reg No : RA2411026050247
 AI Problem Solving Assignment
 # Smart Navigation System (BFS & DFS)
